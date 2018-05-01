@@ -1,0 +1,7 @@
+[0218/144236.373:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Access is denied. (0x5)
+[0218/144236.393:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0218/144236.393:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Access is denied. (0x5)
+[0308/052722.496:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[0308/052722.497:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Access is denied. (0x5)
+[0308/052722.504:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/052722.505:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Access is denied. (0x5)

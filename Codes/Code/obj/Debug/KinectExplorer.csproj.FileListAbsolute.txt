@@ -1,0 +1,15 @@
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\Debug\KinectExplorer.exe.config
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\Debug\KinectExplorer.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer.csprojResolveAssemblyReference.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\App.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.lref
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\MainWindow.baml
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer.g.resources
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\Debug\KinectExplorer.pdb

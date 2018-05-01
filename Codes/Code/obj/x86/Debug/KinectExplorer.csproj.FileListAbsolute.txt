@@ -1,0 +1,30 @@
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\x86\Debug\KinectExplorer.exe.config
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\x86\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\x86\Debug\KinectExplorer.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer.csprojResolveAssemblyReference.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\App.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer_MarkupCompile.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer_MarkupCompile.lref
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\MainWindow.baml
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer.g.resources
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\C#\KinectExplorer\obj\x86\Debug\KinectExplorer.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\bin\x86\Debug\KinectExplorer.exe.config
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\bin\x86\Debug\KinectExplorer.exe
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\bin\x86\Debug\KinectExplorer.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer.csprojResolveAssemblyReference.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\App.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer_MarkupCompile.cache
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer_MarkupCompile.lref
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\MainWindow.baml
+C:\Users\pk1601cs33\Desktop\LOGISIM\4 pose estimATOR\KinectExplorer\obj\x86\Debug\KinectExplorer.g.resources
